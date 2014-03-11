@@ -12,8 +12,8 @@ The key to doing this well is asking yourself questions about the data, and then
 
 Step 1) Find a large dataset that you'd like to represent. Ideally yours will be between 50,000 and 5 million points of data (up to a few GB. Do not attempt something larger than 10-15GB). Potential sources for data:
 
-- Data.gov
-- Sunlight Foundation
+- [Data.gov](http://data.gov)
+- [Sunlight Foundation](http://sunlight.org)
 - [/r/data](http://www.reddit.com/r/data)
 - [/r/datasets](http://www.reddit.com/r/datasets)
 - [Amazon Public Data Sets](https://aws.amazon.com/datasets)
