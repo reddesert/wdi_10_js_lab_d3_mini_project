@@ -36,5 +36,3 @@ Step 5) Write a rake task to import this dataset into Postgres with ActiveRecord
 Step 6) Build a JSON API to access this data. You might do some transformation/alteration of the data, and not simply return all the raw rows to the API.
 
 Step 7) Use D3 to create a stunning (and hopefully interactive) visualization of the data. Consider multiple visualizations of different aspects of the dataset if it would help tell the story of the data in a more compelling way.
-
-*Work in groups of two.*
